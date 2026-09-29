@@ -15,6 +15,9 @@ cd gnews-api
 
 # Install dependencies
 pip install -e .
+
+# Execute project
+gnews-api
 ```
 
 ## License
